@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "ns_string.h"
-
+//making format changes
 void flow()
 {
  ns_web_add_auto_header("x-forwarded-server","macys.com", 0);

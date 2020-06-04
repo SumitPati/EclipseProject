@@ -1,3 +1,4 @@
+//made format changes
 nsl_web_find(TEXT="xx-xx-xx-xx.index", PAGE=HomePageCanvas_H03);
 nsl_web_find(TEXT="\"product\":{\"id\"", PAGE=HomeV1Product_H03);
 nsl_static_var(productid:3, File=/home/cavisson/work/mixedloadData/Prodid_upcid_Catid_ProdInfo.txt, Refresh=USE, Mode=RANDOM, EncodeMode=All, CopyFileToTR=Yes);
